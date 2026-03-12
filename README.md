@@ -4,7 +4,7 @@ A modern React website for Black Tiger First Delivery service in UAE, built with
 
 ## 🚀 Live Demo
 
-**Website**: [https://USERNAME.github.io/black-tiger-delivery/](https://USERNAME.github.io/black-tiger-delivery/)
+**Website**: [https://yakuzamack.github.io/black-tiger-delivery/](https://yakuzamack.github.io/black-tiger-delivery/) ✅ **LIVE**
 
 ## 📋 Quick Setup for GitHub Pages
 
