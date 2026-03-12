@@ -1,0 +1,16 @@
+/* 
+  Design Philosophy: Dynamic Blue - Corporate Kinetic
+  Colors: White bg, Deep Navy (#1a3a6b) primary, Yellow (#f59e0b) accent, Green for WhatsApp
+  Font: Cairo (Arabic) - ExtraBold for headings, Regular for body
+  Direction: RTL (Arabic)
+*/
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles for RTL Arabic design */
+body {
+  font-family: 'Cairo', sans-serif;
+  direction: rtl;
+}
